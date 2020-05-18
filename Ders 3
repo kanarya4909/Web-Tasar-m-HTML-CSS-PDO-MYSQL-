@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> <b>,<i>,<sub>,<sup >ETİKETLERİ </title>
+</head>
+
+<body>
+	
+	<p>Lorem ipsum dolor <b>sit</b> amet, consectetur 5<sub>2</sub> adipisicing elit. Autem in accusamus mollitia quis corporis distinctio amet velit <b>suscipit</b> ab cum quam, id, <b>debitis</b, harum ducimus.<br> Magni aut possimus repellendus molestiae tenetur,10<sup>9</3> culpa expedita numquam iusto veritatis neque delectus, libero officiis soluta reprehenderit ipsum pariatur debitis cumque tempora dignissimos, alias voluptate animi.<br> <hr>Aliquam officiis reiciendis eaque ratione alias doloremque ipsam nesciunt quaerat earum facere minus velit perspiciatis <i>quo ex</i> ullam nisi dicta dolorem <i>obcaecati</i> quas, ipsa ut necessitatibus odit asperiores saepe explicabo. Voluptatem asperiores ipsa fugit enim eligendi, explicabo quas soluta maiores consectetur autem, officiis <i>cupiditate</i> consequatur! A aliquid earum iusto.</p>	
+		
+
+<!-- Burda <b> komutu kelimeye geldiğinde etiketin içine alınan kelimeyi "kalın" yazdıran  etiketdir.. -->
+	
+<!-- Burda <i> komutu kelimeye geldiğinde kelimeyi "italik" bir yazı haline getiren etiketidir. -->
+	
+<!-- Burda <sub> komutu sayılar ile kullanılır ve alt indise yazar sayıyı sub etiketi içindeki sayıyı etiketidir. -->
+		
+<!-- Burda <sup> komutu sayılar ile kullanılır ve üst indise yazar sayıyı sup etiketi içindeki sayıyı(Phytondaki "pow" etiketinden aklına gelsin.)-->
+		
+	
+
+</body>
+</html>
