@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> <b>,<i>,<sub>,<sup >ETİKETLERİ </title>
+</head>
+
+<body>
+	
+	<p><ins>Emre Kanarya Web Programlama</ins> <!-- Yazdığımız cümlenin altını çizer.-->
+	<p><del>Emre Kanarya Web Programlama</del><!-- Yazdığımız cümlenin üstünü yani üst derken olumsuz     yani çizer.
+		
+		
+<ul>
+	
+	<li> Liste 1</li>
+	<li> Liste 2</li>
+	<li> Liste 3</li>
+	<li> Liste 4</li>
+	<li> Liste 5</li>
+			
+</ul>
+	
+	
+<ol>
+	
+	<li> Liste 1</li>
+	<li> Liste 2</li>
+	<li> Liste 3</li>
+	<li> Liste 4</li>
+	<li> Liste 5</li>
+	
+	
+</ol>
+	
+
+<!-- Burda iç içe kullanalım -->	
+
+	<ol>
+
+<li>Liste 1</li>
+<li>Liste 2</li>
+
+<ul>
+
+<li>Liste 1</li>
+<li>Liste 2</li>
+<li>Liste 3</li>
+<li>Liste 4</li>
+<li>Liste 5</li>
+
+</ul>
+
+</li>
+
+<li>Liste 3</li>
+<li>Liste 4</li>
+
+</ol>
+
+
+
+</ol>	
+
+</body>
+</html>
